@@ -1,2 +1,2 @@
 # JetPackComposeUI
-Learnint jetpack compose UI with practice.
+Learning [JetPack Compose UI](https://developer.android.com/jetpack/compose/tutorial) with practice.
