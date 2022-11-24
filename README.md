@@ -7,4 +7,4 @@ Learning [JetPack Compose UI](https://developer.android.com/jetpack/compose/tuto
 
 Profile Screen:
 
-<img src="https://github.com/..." data-canonical-src="[https://github.com/hiralpatel/JetPackComposeUI/blob/main/screenshots/ProfilePage.png]" width="200" height="400" />
+<img src="https://github.com/hiralpatel/JetPackComposeUI/blob/main/screenshots/ProfilePage.png" width="200" height="400" />
