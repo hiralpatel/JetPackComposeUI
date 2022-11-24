@@ -8,4 +8,4 @@ Learning [JetPack Compose UI](https://developer.android.com/jetpack/compose/tuto
 Profile Screen:
 ![alt text][logo]
 
-[logo]: https://github.com/hiralpatel/JetPackComposeUI/blob/main/screenshots/ProfilePage.png "Profile Screen UI"
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/hiralpatel/JetPackComposeUI/blob/main/screenshots/ProfilePage.png)" width="200" height="400" />
